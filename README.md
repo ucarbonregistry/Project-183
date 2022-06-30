@@ -3,12 +3,27 @@
 The proposed project titled under UCR is “14 MW small-scale bundled wind power project by M/s Shah Promoters and Developers”, which is a Wind Power project located in Dhule and Sangli district in the state of Maharashtra (India). As per the ex-ante estimate, the project will generate approximately 24,528 MWh of electricity per annum. The project activity would be displacing equivalent quantum of grid electricity resulting in emission reduction of 22,075 tCO2 per annum.
 _______________
 Past History
+VCS Project ID 234
+_________________
+ISSUANCE DATE: 19/02/2010
+Vintage Year Issued: 08/06/2007 to	07/06/2009
+________
+Quantity: 300	tCO2 (RETIRED)
+_________________
+Serial Range: 594-27603469-27603768-VCU-009-APX-IN-1-234-08062007-07062009-0
+_________________
+Quantity 6328 tCo2 (RETIRED)
+_______________
+Serial Range: 594-27575901-27582228-VCU-009-APX-IN-1-234-08062007-07062009-0
+__________________
+Quantity 21240 tCo2 (RETIRED)
+_____________
+594-27582229-27603468-VCU-009-APX-IN-1-234-08062007-07062009-0
+____________________
 UNFCCC CDM Project 2342 : 14 MW Wind Power Project in Maharashtra
 __________________
 CDM CER ISSUANCE HISTORY:
 ________________________________
-Monitoring report: 08 Jun 2009 - 31 Oct 2010 (299 KB)
-______________________________
 CERs requested up to 31 December 2012: 24211
 _____________________
 Serial Range: Block start: IN-5-136138224-1-1-0-2342 to Block end: IN-5-136162434-1-1-0-2342
