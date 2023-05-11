@@ -1,6 +1,29 @@
 # Project-183
 14 MW small-scale bundled wind power project by M/s Shah Promoters and Developers (UCR ID# 183)
 The proposed project titled under UCR is “14 MW small-scale bundled wind power project by M/s Shah Promoters and Developers”, which is a Wind Power project located in Dhule and Sangli district in the state of Maharashtra (India). As per the ex-ante estimate, the project will generate approximately 24,528 MWh of electricity per annum. The project activity would be displacing equivalent quantum of grid electricity resulting in emission reduction of 22,075 tCO2 per annum.
+_____________
+UCR CoUs Issued: 11/05/2023
+Total Issued: 48015 CoUs
+___________
+Serial Number: 0001-000001-014919-UCR-CoU-IN-183-08062019-31122019
+
+Vintage Year: 2019
+
+CoU's Issued: 14,919
+__________________
+Serial Number: 0001-014920-031029-UCR-CoU-IN-183-01012020-31122020
+
+Vintage Year: 2020
+
+CoU's Issued: 16,110
+____________
+Serial Number: 0001-033431-048015-UCR-CoU-IN-183-01012021-31122021
+
+Vintage Year: 2021
+
+CoU's Issued Total: 16986
+
+CoU's Issued to Client: 14,585
 _______________
 Past History
 VCS Project ID 234
